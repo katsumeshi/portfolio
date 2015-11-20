@@ -1,0 +1,262 @@
+# Site settings
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Yuki Matsushita's Portfolio"
+theme = "hugo-agency-theme"
+
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) or
+	# most longer texts.
+	#
+	# All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = "Yuki Matsushita"
+	description = "Your description"
+
+	# Since this template is static, the contact form uses www.formspree.io as a
+	# proxy. The form makes a POST request to their servers to send the actual
+	# email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+	email = "katsumeshi@gmail.com"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "Yuki Matsushita"
+		portfolio = "Portfolio"
+		services = "Skill"
+		about = "Career"
+		contact = "Contact"
+
+
+	# Hero section
+	[params.hero]
+		# To change the background image of the hero, replace 'header-bg.jpg' in
+		# the 'static/img' folder.
+		title = "I'm iOS Software Developer"
+		subtitle = "Yuki Matsushita"
+		buttonText = "Tell me more"
+
+
+	# Services section
+	[params.services]
+		title = "Skill"
+		subtitle = "Since I have graduated College of Computing, I have experienced as a software developer for 10 years."
+
+	[[params.services.row]]
+
+		[[params.services.row.list]]
+			icon = "fa-laptop"
+			title = "Objective-C"
+			description = "I took part and developed some projects for 3 years, those projects are Client-Server model. so I'm familiar with how it can connect using librarly such as AFNetworking."
+  #
+
+		[[params.services.row.list]]
+			icon = "fa-rocket"
+			title = "Swift"
+			description = "I have experience not only Objective-C, also Swift. I start to use Swift for my own projects after Apple release. I'm also familiar with some libraly such as Alamofire, Realm, ReactiveCocoa, Testing framework"
+  #
+		[[params.services.row.list]]
+			icon = "fa-code"
+			title = "Server-Side"
+			description = "I especially good at Client-Side. Therefore I have some Server-Side experience such as PHP, Java, SQL, RDBMS, Jenkins"
+ 
+	[[params.services.row]]
+        [[params.services.row.list]]
+			icon = "fa-gamepad"
+			title = "Game Development"
+			description = "Aside from those knowledge.I have game development experience also. I used Unity, Cocos2d-x, Cocos (without x) each  a half a year and ActionScript3 1 year and half"
+ 
+         [[params.services.row.list]]
+			icon = "fa-github-alt"
+			title = "Tools and Team Work"
+			description = "My favorite development tools are Xcode, Vim, Zsh. I have usually used Git/Github(SCM) so far"
+  
+    	[[params.services.row.list]]
+			icon = "fa-level-up"
+			title = "Passion"
+			description = "Keep leraning to improve. Do thing that I have learned. Shere the knowledge."
+
+	# Portfolio section
+	[params.portfolio]
+		# All projects defined in their own files. You can find example projects
+		# at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
+		# at the root of this Hugo site.
+		# For more informtion take a look at the README.
+		title = "Portfolio"
+		subtitle = "Lorem ipsum dolor sit amet consectetur."
+
+		[params.portfolio.modal]
+            client = "Client"
+            date = "Date"
+            category = "Category"
+            buttonText = "Close project"
+
+
+    # About section
+	[params.about]
+		title = "Career"
+		subtitle = ""
+		endpoint = "Be part<br>of my<br>story!"
+
+		# The events will be listed from the top to the bottom.
+		# All images are stored under 'static/img/about'.
+		# Replace them with your own.
+		[[params.about.events]]
+			img = "1.jpg"
+			date = "2004-2007"
+			title = "Kobe Institute College of Computing. The Entertainmant Software Course"
+			description = "I went to college for 3 years. 1st year : learnd knowledge of basic programming. 2nd year : created a game as a project using VC++. 3rd year : created bigger game as a graduation project using DirectX "
+
+		[[params.about.events]]
+			img = "2.jpg"
+			date = "2007-2008"
+			title = "M Technobrain Inc."
+			description = "The company were usually entrusted with bussiness system projects. I took part in those projects as server and client side. Those  were developed using VB.Net and Java."
+
+		[[params.about.events]]
+			img = "3.jpg"
+			date = "2008-2012"
+			title = "NEXON Co., Ltd"
+			description = "The company is game publisher. I created casual browser game. I am responsible for cleint-side using AS3. last one and half year, I worked for infra engineer(on-premiss), monitering, installing, maintaining the servers in IDC."
+
+		[[params.about.events]]
+			img = "4.jpg"
+			date = "2012-2013"
+			title = "KLab Inc."
+			description = "The company is mobile game publisher.I operated the browser game of client side using Javascript and I developed an iOS game app."
+
+        [[params.about.events]]
+			img = "5.jpg"
+			date = "2013-2015"
+			title = "KLab Cyscorpions Inc."
+			description = "The company is overseas base subsidiary of KLab Inc. I transferd there in the phillipines as iOS Developer and client-side leader. I told local staff to improve their quality of skills such as sofware designing, coding skills and technics.In addition, I operated a game, server-side part, PHP. and others are I took part in Unity, Cocos projects"
+
+	# Team section
+	# [params.team]
+	# 	title = "Our amazing team"
+	# 	subtitle = "Lorem ipsum dolor sit amet consectetur."
+	# 	description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+ #
+	# 	# All team member's pictures are stored under 'static/img/team'.
+	# 	# Replace them with your own too.
+	# 	[[params.team.members]]
+	# 		img = "1.jpg"
+	# 		name = "Kay Garland"
+	# 		position = "Lead Designer"
+	# 		social = [
+	# 			["fa-twitter", "#"],
+	# 			["fa-facebook", "#"],
+	# 			["fa-linkedin", "#"]
+	# 		]
+ #
+	# 	[[params.team.members]]
+	# 		img = "2.jpg"
+	# 		name = "Larry Parker"
+	# 		position = "Lead Marketer"
+	# 		social = [
+	# 			["fa-twitter", "#"],
+	# 			["fa-facebook", "#"],
+	# 			["fa-linkedin", "#"]
+	# 		]
+ #
+	# 	[[params.team.members]]
+	# 		img = "3.jpg"
+	# 		name = "Diana Pertersen"
+	# 		position = "Lead Developer"
+	# 		social = [
+	# 			["fa-twitter", "#"],
+	# 			["fa-facebook", "#"],
+	# 			["fa-linkedin", "#"]
+	# 		]
+ #
+	# # Client section
+	# # All the clients' logos are stored under 'static/img/logos'.
+	# # Replace them with your clients's logos.
+	# [[params.clients]]
+	# 	logo = "envato.jpg"
+	# 	link = "#"
+ #
+	# [[params.clients]]
+	# 	logo = "designmodo.jpg"
+	# 	link = "#"
+ #
+	# [[params.clients]]
+	# 	logo = "themeforest.jpg"
+	# 	link = "#"
+ #
+	# [[params.clients]]
+	# 	logo = "creative-market.jpg"
+	# 	link = "#"
+ #
+ #
+	# Contact section
+	# [params.contact]
+	# 	title = "Contact us"
+	# 	subtitle  = "Lorem ipsum dolor sit amet consectetur."
+	# 	buttonText = "Send message"
+ #
+	# 	# 'warning' defines error messages for invalid inputs
+	# 	[params.contact.form.name]
+	# 		text = "Your Name *"
+	# 		warning = "Please enter your name."
+ #
+	# 	[params.contact.form.email]
+	# 		text = "Your Email *"
+	# 		warning = "Please enter your email address."
+ #
+	# 	[params.contact.form.phone]
+	# 		text = "Your Phone *"
+	# 		warning = "Please enter your phone number."
+ #
+	# 	[params.contact.form.message]
+	# 		text = "Your Message *"
+	# 		warning = "Please enter a message."
+ #
+
+	# Footer section
+	[params.footer]
+		copyright = "© 2015 Yuki Matsushita."
+
+        [[params.footer.social]]
+			icon = "fa-github"
+			link = "https://github.com/katsumeshi"
+
+		[[params.footer.social]]
+			icon = "fa-twitter"
+			link = "https://twitter.com/__yukim"
+
+		[[params.footer.social]]
+			icon = "fa-facebook"
+			link = "https://www.facebook.com/yuki.matsushita.39"
+
+		[[params.footer.social]]
+			icon = "fa-linkedin"
+			link = "https://www.linkedin.com/profile/view?id=AAIAABj5CjYBI6DMaf9KjPcc7C59SveKjZLdj3Y&trk=nav_responsive_tab_profile_pic"
+
+        [[params.footer.social]]
+			icon = "fa-envelope-o"
+			link = "mailto:katsumeshi@gmail.com"
+
+
+
+		# [[params.footer.quicklinks]]
+		# 	text = "Privacy Policy"
+		# 	link = "#"
+  #
+		# [[params.footer.quicklinks]]
+		# 	text = "Terms of Use"
+		# 	link = "#"
