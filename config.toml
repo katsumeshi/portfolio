@@ -97,7 +97,7 @@ theme = "hugo-agency-theme"
 		# at the root of this Hugo site.
 		# For more informtion take a look at the README.
 		title = "Portfolio"
-		subtitle = "Lorem ipsum dolor sit amet consectetur."
+		subtitle = ""
 
 		[params.portfolio.modal]
             client = "Client"
@@ -119,31 +119,55 @@ theme = "hugo-agency-theme"
 			img = "1.jpg"
 			date = "2004-2007"
 			title = "Kobe Institute College of Computing. The Entertainmant Software Course"
-			description = "I went to college for 3 years. 1st year : learnd knowledge of basic programming. 2nd year : created a game as a project using VC++. 3rd year : created bigger game as a graduation project using DirectX "
+			description = "I went to college for 3 years. <br> 1st year : learned knowledge of basic programming. <br> 2nd year : created a game as a project using VC++. <br> 3rd year : created bigger game as a graduation project using DirectX "
 
 		[[params.about.events]]
 			img = "2.jpg"
 			date = "2007-2008"
 			title = "M Technobrain Inc."
-			description = "The company were usually entrusted with bussiness system projects. I took part in those projects as server and client side. Those  were developed using VB.Net and Java."
+			description = "I participated in two projects during 1 year. One of the project that are developed by Java, I was charge of user registration function. the others project are I took part in developing of management system of a temporary employment agency using VB.Net."
 
 		[[params.about.events]]
 			img = "3.jpg"
 			date = "2008-2012"
 			title = "NEXON Co., Ltd"
-			description = "The company is game publisher. I created casual browser game. I am responsible for cleint-side using AS3. last one and half year, I worked for infra engineer(on-premiss), monitering, installing, maintaining the servers in IDC."
+			description = "The company is game publisher.  I was responsible for client-side of game creation that were used Action Script 3.  Last one and half year, I worked for as an infra engineer(on-premiss). The tasks are  monitoring , installing and maintaining the servers of MMO at IDC."
 
 		[[params.about.events]]
 			img = "4.jpg"
 			date = "2012-2013"
 			title = "KLab Inc."
-			description = "The company is mobile game publisher.I operated the browser game of client side using Javascript and I developed an iOS game app."
+			description = "The company is mobile game publisher. I was responsible for front-end(JavaScript) of operation of the browser game for a half a year. Then, I participated in startup of the iOS app game as a mobile software developer."
 
         [[params.about.events]]
 			img = "5.jpg"
 			date = "2013-2015"
 			title = "KLab Cyscorpions Inc."
-			description = "The company is overseas base subsidiary of KLab Inc. I transferd there in the phillipines as iOS Developer and client-side leader. I told local staff to improve their quality of skills such as sofware designing, coding skills and technics.In addition, I operated a game, server-side part, PHP. and others are I took part in Unity, Cocos projects"
+			description = "The company is located in the phillipines is overseas base subsidiary of KLab Inc. I transfered to the phillipines as an iOS Developer and client-side leader. I managed some projects as a client-side leader and made them improve their quality of skills, such as software designing, coding skills by conversation on Github or having some meetings.Aside from that, I participated in the game operation and development of CMS using PHP. In addition I took part in Unity, Cocos projects, also."
+
+	# Footer section
+	[params.footer]
+		copyright = "© 2015 Yuki Matsushita."
+
+        [[params.footer.social]]
+			icon = "fa-github"
+			link = "https://github.com/katsumeshi"
+
+		[[params.footer.social]]
+			icon = "fa-twitter"
+			link = "https://twitter.com/__yukim"
+
+		[[params.footer.social]]
+			icon = "fa-facebook"
+			link = "https://www.facebook.com/yuki.matsushita.39"
+
+		[[params.footer.social]]
+			icon = "fa-linkedin"
+			link = "https://www.linkedin.com/profile/view?id=AAIAABj5CjYBI6DMaf9KjPcc7C59SveKjZLdj3Y&trk=nav_responsive_tab_profile_pic"
+
+        [[params.footer.social]]
+			icon = "fa-envelope-o"
+			link = "mailto:katsumeshi@gmail.com"
 
 	# Team section
 	# [params.team]
@@ -226,31 +250,6 @@ theme = "hugo-agency-theme"
 	# 		text = "Your Message *"
 	# 		warning = "Please enter a message."
  #
-
-	# Footer section
-	[params.footer]
-		copyright = "© 2015 Yuki Matsushita."
-
-        [[params.footer.social]]
-			icon = "fa-github"
-			link = "https://github.com/katsumeshi"
-
-		[[params.footer.social]]
-			icon = "fa-twitter"
-			link = "https://twitter.com/__yukim"
-
-		[[params.footer.social]]
-			icon = "fa-facebook"
-			link = "https://www.facebook.com/yuki.matsushita.39"
-
-		[[params.footer.social]]
-			icon = "fa-linkedin"
-			link = "https://www.linkedin.com/profile/view?id=AAIAABj5CjYBI6DMaf9KjPcc7C59SveKjZLdj3Y&trk=nav_responsive_tab_profile_pic"
-
-        [[params.footer.social]]
-			icon = "fa-envelope-o"
-			link = "mailto:katsumeshi@gmail.com"
-
 
 
 		# [[params.footer.quicklinks]]

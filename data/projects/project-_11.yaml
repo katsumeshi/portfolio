@@ -1,10 +1,10 @@
 modalID: 11
 title: Block Ban
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: "This is the one of the casual game of Fishing Island , that is to remove the blocks that connected same color. Finally, the number of blocks should be less than or equal to 20."
 date: 2014-07-10
-img: dreams.png
-preview: dreams-preview.png
-client: Start Bootstrap
-clientLink: "#"
+img: blockban_detail.png
+preview: blockban_title.png
+client: Nexon
+clientLink: "http://www.4gamer.net/games/042/G004298/20080327002/"
 category: Browser Game
-description: Dreams is a free PSD web template built by [Mathavan Jaya](//www.behance.net/MathavanJaya). Dreams is a modern one page web template designed for almost any purpose. It’s a beautiful template that’s designed with the Bootstrap framework in mind. <br><br>You can download the PSD template in this portfolio sample item at [FreebiesXpress.com](//freebiesxpress.com/gallery/dreams-free-one-page-web-template/).
+description: "I developed the puzzle game of client-side from scratch. This is the first game that I created in the company. Actually, I had never made a game with the team which are joined planner and server-side developer. I was able to get the some experience through the project.<br><br>  Development language : Actionscript 3.<br>  Tools : SVN"

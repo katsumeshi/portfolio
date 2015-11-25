@@ -1,10 +1,10 @@
 modalID: 7
-title: Sangokushi Buster
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Shin Sangokushi Buster
+subtitle: "The game is RPG card game is based on 'Sangokushi' (Annals of the Three Kingdoms). The game system is similar to The load of the dragons. The players aim to find the strong warrior card explore the historical place on the story. It can also build a team with friends, and battle the enemies. It can interact various people, and have experience via the game." 
 date: 2014-07-10
 img: sangokushi_detail.png
 preview:  sangokushi_title.png
-client: Start Bootstrap
-clientLink: "#"
+client: KLab Inc and KLab Cyscorpions Inc 
+clientLink: "http://gamebiz.jp/?p=83006"
 category: iPhone App
-description: Dreams is a free PSD web template built by [Mathavan Jaya](//www.behance.net/MathavanJaya). Dreams is a modern one page web template designed for almost any purpose. It’s a beautiful template that’s designed with the Bootstrap framework in mind. <br><br>You can download the PSD template in this portfolio sample item at [FreebiesXpress.com](//freebiesxpress.com/gallery/dreams-free-one-page-web-template/).
+description: "The app was first project after I moved to the subsidiary. I joined the project as an iOS developer and client-side leader. I developed some features. Not only that, I also managed the progress of project of client-side. In the project that I worked in, I told the local staff to how to write readable code, and to use CI(Jenikins) to make smooth progress the project."

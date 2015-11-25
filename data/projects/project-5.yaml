@@ -1,10 +1,10 @@
 modalID: 4
 title: Roarz 
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: Survival Horror Game. The app is a game of FPS type. The player has to survive somehow the polluted decayed world where zombies is living. 
 date: 2014-07-08
 img: roarz_detail.png
 preview: roarz_title.png
-client: Start Bootstrap
-clientLink: "#"
+client: KLab Cyscorpions Inc
+clientLink: "http://www.cyscorpions.com/roarz-products.html"
 category: iPhone App (Unity)
-description: Escape is a free PSD web template built by [Mathavan Jaya](//www.behance.net/MathavanJaya). Escape is a one page web template that was designed with agencies in mind. This template is ideal for those looking for a simple one page solution to describe your business and offer your services. <br><br>You can download the PSD template in this portfolio sample item at [FreebiesXpress.com](//freebiesxpress.com/gallery/escape-one-page-psd-web-template/).
+description: "I was charge of UI part, in-app-purchase function and some functions of game for a few months. When I joined the project, there was no CI. I installed CI to make progress the project smoothly. The CI purpose was to deliver the app to QA team. it can install easily to the device for testing. The trial that was first in the company was possible to expand to other Unity projects. <br><br> Development launguage : Unity(C#)"

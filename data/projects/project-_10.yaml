@@ -1,10 +1,10 @@
 modalID: 10 
 title: Fishing Island 
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: "The game is possible to enjoy fishing. the users can be communicate with each other via chatting. One of the game purpose is to get the rare fish which no one has never seen."
 date: 2014-07-10
-img: dreams.png
-preview: dreams-preview.png
-client: Start Bootstrap
+img: turiland_detail.png
+preview: turiland_title.png
+client: Nexon
 clientLink: "#"
 category: Browser Game (Flash)
-description: Dreams is a free PSD web template built by [Mathavan Jaya](//www.behance.net/MathavanJaya). Dreams is a modern one page web template designed for almost any purpose. It’s a beautiful template that’s designed with the Bootstrap framework in mind. <br><br>You can download the PSD template in this portfolio sample item at [FreebiesXpress.com](//freebiesxpress.com/gallery/dreams-free-one-page-web-template/).
+description: "This is the fishing game which is  MO(Multiplayer Online) working on the browser.  I was responsible for develop some functions of client-side which is the shop, mini-game, chatting and town. <br><br> Developing language : Action Script 3." 

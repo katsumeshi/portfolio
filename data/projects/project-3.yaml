@@ -1,10 +1,10 @@
 modalID: 3
-title: Photo Info (Own)
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Photo Info (Own Project)
+subtitle: The app is possible to know the photo detail such as exif data, geo tag. The one of features of app is possible to know where the photo tagged, and the geo tag of photo can delete and edit on the map. 
 date: 2014-07-07
 img: photoinfo_detail.png
 preview: photoinfo_title.png
-client: Start Bootstrap
+client: Own Project
 clientLink: "#"
 category: iPhone App
-description: Treehouse is a free PSD web template built by [Mathavan Jaya](//www.behance.net/MathavanJaya). This is bright and spacious design perfect for people or startup companies looking to showcase their apps or other projects. <br><br>You can download the PSD template in this portfolio sample item at [FreebiesXpress.com](freebiesxpress.com/gallery/treehouse-free-psd-web-template/).
+description: "The app is also one of my own project.<br>I came up with the idea of app since I am travel lover.  I want to know the exact place where I took.  Not only the geo tag detail, this app can prevent from stranger who tries to peep the information of place by function of deleting geo tag.<br> [Available on iTunes Store](https://itunes.apple.com/us/app/xie-zhenno-wei-zhi-qing-baono/id998243965?mt=8).<br><br> Development language : Swift <br> Using library : PhotoKit, [ReactiveCococa](https://github.com/ReactiveCocoa/ReactiveCocoa), [Quick](https://github.com/Quick/Quick)."

@@ -1,10 +1,10 @@
 modalID: 6
 title: Katatema Quest
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: Cute core RPG.The player with his/her monsters adventures to beat the Devil. The monsters can also be grown through monsters composition and getting experience point. Ofcourse, The players can also beat the Boss in cooperation.
 date: 2014-07-10
 img: katatema_detail.png
 preview: katatema_title.png
-client: Start Bootstrap
-clientLink: "#"
+client: KLab Inc and KLab Cyscorpions Inc.
+clientLink: "http://www.klab.com/jp/press/130530.html"
 category: iPhone App(Cocos)
-description: Dreams is a free PSD web template built by [Mathavan Jaya](//www.behance.net/MathavanJaya). Dreams is a modern one page web template designed for almost any purpose. It’s a beautiful template that’s designed with the Bootstrap framework in mind. <br><br>You can download the PSD template in this portfolio sample item at [FreebiesXpress.com](//freebiesxpress.com/gallery/dreams-free-one-page-web-template/).
+description: "Though the app of japanese version have already been closed, Our project purpose was to migrate and release to global version and needed to add some unique function to get new users. The feature and purpose was achieved and also met the deadline. Unfortunately, the app of global version was not able to release because of internal affair reason. I joined the project as a client-side leader and helper. I got familier with cocos project. <br><br> Development language: Objective-C <br> Using game engine : Cocos"

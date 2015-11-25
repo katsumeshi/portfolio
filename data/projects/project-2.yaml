@@ -1,10 +1,10 @@
 modalID: 2
 title: Color vision test game (Own)
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: The app feature is possible to measure how much your eyes recognize the color difference. The test result is shown as an animal eyes level. 
 date: 2014-07-06
 img: vision_detail.png
 preview: vision_titile.png
-client: Own
+client: Own Project
 clientLink: "#"
 category: iPhone App
-description: "[Startup Framework](//designmodo.com/startup/?u=787) is a website builder for professionals. Startup Framework contains components and complex blocks (PSD+HTML Bootstrap themes and templates) which can easily be integrated into almost any design. All of these components are made in the same style, and can easily be integrated into projects, allowing you to create hundreds of solutions for your future projects. <br><br>You can preview Startup Framework [here](//designmodo.com/startup/?u=787)."
+description: "The app is also one of my own project.<br>The test game rule is simple. Find the diffrence of color from the entire tiles with in 60 sec.<br>[Available on iTunes Store](https://itunes.apple.com/us/app/se-jue-se-ruo-se-mangtesutogemu/id1011532512?mt=8)<br><br> Development language : Swift <br> Using library : SpritKit and GameCenter."
