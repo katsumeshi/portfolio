@@ -54,41 +54,41 @@ theme = "hugo-agency-theme"
 	# Services section
 	[params.services]
 		title = "Skill"
-		subtitle = "Since I have graduated College of Computing, I have experienced as a software developer for 10 years."
+		subtitle = ""
 
 	[[params.services.row]]
 
 		[[params.services.row.list]]
 			icon = "fa-laptop"
 			title = "Objective-C"
-			description = "I took part and developed some projects for 3 years, those projects are Client-Server model. so I'm familiar with how it can connect using librarly such as AFNetworking."
+			description = "I have experienced iOS Apps development for a total of 3 years.  Regarding Objective-C, I have experienced for over 2 years through some projects of former company. Those projects is used networking are Client-Server model. Not only iOS framework basic, I'm familiar with those methods also."
   #
 
 		[[params.services.row.list]]
 			icon = "fa-rocket"
 			title = "Swift"
-			description = "I have experience not only Objective-C, also Swift. I start to use Swift for my own projects after Apple release. I'm also familiar with some libraly such as Alamofire, Realm, ReactiveCocoa, Testing framework"
+			description = "I have experience not only Objective-C, also Swift. I have started to use it on my own projects for about 1 year. Through those projects, I got also familiar with some library such as Alamofire, Realm, ReactiveCocoa, Quick(Testing framework). Recently, some of my own projects have already migrated to Swift2."
   #
 		[[params.services.row.list]]
 			icon = "fa-code"
 			title = "Server-Side"
-			description = "I especially good at Client-Side. Therefore I have some Server-Side experience such as PHP, Java, SQL, RDBMS, Jenkins"
+			description = "I'm especially familiar with Client-Side. Also, I have some Server-Side experience, PHP, Java, SQL, RDBMS, Jenkins, so on through previous projects. To improve my back-end skill, I continue to study through use of tutorial, reading tech books, so on."
  
 	[[params.services.row]]
         [[params.services.row.list]]
 			icon = "fa-gamepad"
 			title = "Game Development"
-			description = "Aside from those knowledge.I have game development experience also. I used Unity, Cocos2d-x, Cocos (without x) each  a half a year and ActionScript3 1 year and half"
+			description = "I have game development experience using game engine also. I have used Unity, Cocos2d-x(trial), Cocos2d (without x), SpriteKit to make a game for a few months to a half year. Other than that, I have also experience Actionscript3 through making casual browser game for 1 year and a half."
  
          [[params.services.row.list]]
 			icon = "fa-github-alt"
 			title = "Tools and Team Work"
-			description = "My favorite development tools are Xcode, Vim, Zsh. I have usually used Git/Github(SCM) so far"
+			description = "I got familiar with tools through the former company projects and my own projects.  Regarding source code management, I usually use Git/Github. For instance, In my former company, development process is we fix or develop based on issue that is made in Github or Project Management Tool using fix or feature branch, then send pull request to code review. After code review done, we merge it to development branch.  Other than that, I used Jenkins in my former company.  Personally, I use Vim, Zsh, Ansile, Vagrant, Docker,  so on to improve my work productivity.My favorite development tools are Xcode, Vim, Zsh."
   
     	[[params.services.row.list]]
-			icon = "fa-level-up"
+			icon = "fa-fire"
 			title = "Passion"
-			description = "Keep leraning to improve. Do thing that I have learned. Shere the knowledge."
+			description = "I love to programming. When I have spare time, I usually do learning or programming such as reading tech books, reading code, learning software architecture, beginning new programming language so on. IT field expansion is quickly, and developers should get a lot of new tech things.I think important of as a developer is attitude of learning various tech things every day."
 
 	# Portfolio section
 	[params.portfolio]
