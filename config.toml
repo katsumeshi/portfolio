@@ -38,8 +38,8 @@ theme = "hugo-agency-theme"
 		brand = "Yuki Matsushita"
 		portfolio = "Portfolio"
 		services = "Skill"
+		team = "Leaning"
 		about = "Career"
-		contact = "Contact"
 
 
 	# Hero section
@@ -61,8 +61,7 @@ theme = "hugo-agency-theme"
 		[[params.services.row.list]]
 			icon = "fa-laptop"
 			title = "Objective-C"
-			description = "I have experienced iOS Apps development for a total of 3 years.  Regarding Objective-C, I have experienced for over 2 years through some projects of former company. Those projects is used networking are Client-Server model. Not only iOS framework basic, I'm familiar with those methods also."
-  #
+			description = "I have experienced iOS App development for a total of 3 years.  Regarding Objective-C, I have experienced for over 2 years through some projects of former company.  I'm also familiar with memory management since I have developed projects with Manual Reference Counting and using Profile for detecting memory leak.  I have experienced not only Only-Client development,  also Client-Server integration development."
 
 		[[params.services.row.list]]
 			icon = "fa-rocket"
@@ -170,10 +169,10 @@ theme = "hugo-agency-theme"
 			link = "mailto:katsumeshi@gmail.com"
 
 	# Team section
-	# [params.team]
-	# 	title = "Our amazing team"
-	# 	subtitle = "Lorem ipsum dolor sit amet consectetur."
-	# 	description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+	[params.team]
+		title = "Learning"
+		subtitle = ""
+		description = "As I have written passion part of skill, I think developers should keep learning new things.<br><br>  Recently, My iOS learning is FRP(functional reactive programming) using [ReactiveCocoa](//github.com/ReactiveCocoa/ReactiveCocoa) and TDD(Test driven development) using [Quick](//github.com/Quick/Quick). I try to implement a app using these library, see ([PhotoInfo](//github.com/katsumeshi/app-sample)) <br><br> On the other hand, not only learning for iOS or client-side, I am also interested in back-end development. Though I have some knowledge about back-end, I especially focus on learning ruby on rails recently .<br><br>This portfolio site is also part of learning, I created the site using [hugo](//gohugo.io/) which is static web site engine based on golang and  using [Docker](//www.docker.com/) and [Vagrant](//www.vagrantup.com/) for building local environment development." 
  #
 	# 	# All team member's pictures are stored under 'static/img/team'.
 	# 	# Replace them with your own too.
