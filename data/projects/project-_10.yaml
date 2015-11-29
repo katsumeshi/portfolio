@@ -1,10 +1,10 @@
 modalID: 10 
 title: Fishing Island 
-subtitle: "The game is possible to enjoy fishing. the users can be communicate with each other via chatting. One of the game purpose is to get the rare fish which no one has never seen."
+subtitle: "Development language: ActionScript3 <br> Using technology : Client-Server Integration, SVN<br><br>My responsibility : Developing some features"
 date: 2014-07-10
 img: turiland_detail.png
 preview: turiland_title.png
 client: Nexon
 clientLink: "#"
 category: Browser Game (Flash)
-description: "This is the fishing game which is  MO(Multiplayer Online) working on the browser.  I was responsible for develop some functions of client-side which is the shop, mini-game, chatting and town. <br><br> Developing language : Action Script 3." 
+description: "The game is possible to enjoy fishing. the users can be communicate with each other via chatting. One of the game purpose is to get the rare fish which no one has never seen.<br><br> This is the fishing game which is  MO(Multiplayer Online) working on the browser.  I was responsible for develop some functions of client-side which is the shop, mini-game, chatting and town. " 

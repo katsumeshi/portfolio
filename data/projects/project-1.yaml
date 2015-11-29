@@ -1,10 +1,10 @@
 modalID: 1
 title: Dictionary (Own Project)
-subtitle: The app is an English-Japanese dictionary,and  vice versa. When the word looks up, the image and pronunciation play at the same time.
-date: 2014-07-05
+subtitle: "Development language : Swift <br> Using library : [Realm](//realm.io), [JAZZHANDS](//github.com/IFTTT/JazzHands), [FMDB](//github.com/ccgus/fmdb), [ALAMOFIRE](//github.com/Alamofire/Alamofire),<br> Flickr API and Voice Over for making pronounciation."
+date: from 2015-07 to 2015-08
 img: dict_detail.jpg
 preview: dict_title.jpg
 client: Own Project
 clientLink: "#"
 category: iPhone App
-description: "The app is one of my own project.<br> I made the app for Engish learners who are difficult to remember the words. The feature is the app makes effect their brain by the image and pronounciation related to words.<br> [Available on iTunes Store](https://itunes.apple.com/us/app/naoni-ci-ji!-ying-he-he-ying/id1019032801?ls=1&mt=8)<br><br> Development language : Swift <br> Using library : [Realm](//realm.io), Flickr API and Voice Over for making pronounciation."
+description: "The app is one of my own project.<br> This app is an English-Japanese dictionary,and  vice versa. When the word looks up, the image and pronunciation play at the same time. I made the app for Engish learners who are difficult to remember the words. The feature is the app makes effect their brain by the image and pronounciation related to words.<br><br> [Available on iTunes Store](https://itunes.apple.com/us/app/naoni-ci-ji!-ying-he-he-ying/id1019032801?ls=1&mt=8)<br><br>"

@@ -1,10 +1,10 @@
 modalID: 2
 title: Color vision test game (Own)
-subtitle: The app feature is possible to measure how much your eyes recognize the color difference. The test result is shown as an animal eyes level. 
-date: 2014-07-06
+subtitle: "Development language : Swift <br> Using library : SpritKit and GameCenter."
+date: from 2015-06 to 2015-07
 img: vision_detail.png
 preview: vision_titile.png
 client: Own Project
 clientLink: "#"
 category: iPhone App
-description: "The app is also one of my own project.<br>The test game rule is simple. Find the diffrence of color from the entire tiles with in 60 sec.<br>[Available on iTunes Store](https://itunes.apple.com/us/app/se-jue-se-ruo-se-mangtesutogemu/id1011532512?mt=8)<br><br> Development language : Swift <br> Using library : SpritKit and GameCenter."
+description: "This app is my own project.<br> The feature is possible to measure how much your eyes recognize the color difference. The test result is shown as an animal eyes level. The test game rule is simple. Find the diffrence of color from the entire tiles with in 60 sec.<br><br>[Available on iTunes Store](https://itunes.apple.com/us/app/se-jue-se-ruo-se-mangtesutogemu/id1011532512?mt=8)"

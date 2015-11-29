@@ -1,10 +1,10 @@
 modalID: 12
 title: Mahjong Solitia
-subtitle: "The game is part of Fishing Island. It can remove to choose the pair of same mahjong pieces. Finally, all mahjong pieces should be removed ."
+subtitle: "Development language: ActionScript3 <br> Using technology : Client-Server Integration, SVN<br><br>My responsibility : Developing the entire game"
 date: 2014-07-10
 img: solitia_detail.png
 preview: solitia_title.png
 client: Nexon
 clientLink: "http://www.4gamer.net/games/042/G004298/20080911006/"
 category: Browser Game
-description: "I was responsible for part of the game. This is the first project which are close communication of the client and server side. <br><br>  Development language : Actionscript3 <br> Tools: SVN" 
+description: "The game is part of Fishing Island. It can remove to choose the pair of same mahjong pieces. Finally, all mahjong pieces should be removed .<br><br>I was responsible for part of the game. This is the first project which are close communication of the client and server side."
