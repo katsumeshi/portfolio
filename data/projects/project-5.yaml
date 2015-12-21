@@ -1,10 +1,10 @@
-modalID: 4
-title: Roarz
-subtitle: "Development launguage : Unity(C#)<br>Using technology : NGUI, [Soomla](//soom.la/), [photon](//www.assetstore.unity3d.com/jp/#!/content/1786) and Github(private)<br><br>My responsibility : Developing UI part, generating items and enemies regularly,<br> social sharing function and in-app-purchase"
-date: from 2013-8 to 2014-1
-img: roarz_detail.png
-preview: roarz_title.png
+modalID: 5
+title: Load of the dragons
+subtitle: "Development language : PHP<br>Using Technology : [DietCake](//dietcake.github.io/) and Github(private)  <br>My responsibility : Developing CMS, Operating the game, Leading staff "
+date: from 2014-12 to 2015-06
+img:  load_detail.jpg
+preview: load_title.png
 client: KLab Cyscorpions Inc
-clientLink: "http://www.cyscorpions.com/roarz-products.html"
-category: iPhone App (Unity)
-description: "Survival Horror Game. The app is a game of FPS type. The player has to survive somehow the polluted decayed world where zombies is living.<br><br> I was charge of UI part, in-app-purchase function and some functions of game for a few months. When I joined the project, there was no CI. I installed CI to make progress the project smoothly. The CI purpose was to deliver the app to QA team. it can install easily to the device for testing. The trial that was first in the company was possible to expand to other Unity projects.<br><br> [Available on iTunes Store.](https://itunes.apple.com/jp/app/roarz/id956078828?mt=8)"
+clientLink: "http://www.cyscorpions.com/lod-products.html"
+category: Server-Side
+description:  "The game is fantasy adventure card game. Explore dungions to collect cards for making strong deck. Make guild to cooperate with friends to battle the enemy player or enemy guild. The players can get a lot of experience through the game.<br><br>I participated in the project as a leader and helper for a couple of months . I was responsible for server-side that is to improve CMS and I mediated between planner and the local staff to develop next some features.<br><br>[Available on iTunes Store.](https://itunes.apple.com/jp/app/rodo-obu-za-doragon/id576343269?mt=8)" 

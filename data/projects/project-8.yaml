@@ -1,10 +1,10 @@
-modalID: 8
-title: Koishite Cabajyo GP
-subtitle: "Development language: Objective-C <br> Using technology : Client-Server Integration, Github(private)<br><br>My responsibility : Developing some features"
+modalID: 7
+title: Shin Sangokushi Buster
+subtitle: "Development language: Objective-C <br> Using technology : Client-Server Integration, Github(private) and Jenkins(Automated build and delivery)<br><br>My responsibility : Developing some features<br> Leading local staff to complete the development and improving their development skill"
 date: 2014-07-10
-img: koisite_detail.png
-preview: koisite_title.png
-client: KLab Inc 
-clientLink: "http://gamebiz.jp/?p=88754"
+img: sangokushi_detail.png
+preview:  sangokushi_title.png
+client: KLab Inc and KLab Cyscorpions Inc 
+clientLink: "http://gamebiz.jp/?p=83006"
 category: iPhone App
-description: "Koishite means 'in love'. Cabajyo means that a waitress who working at the night club bar also serve talking and drinking with customers ( especially men ).  The player can obtain good Cabajyos or waiters by battle other players or make progress the story. The final goal of  the game  is to be the hottest girl in the Cabajyo world.<br><br>The app was not developed from full scratch was expanded from another similar game. It needed to adding some features and change the images. I was responsible for add the features of client-side that were ranking function, some of battle functions, so on for release."
+description: "The game is RPG card game is based on 'Sangokushi' (Annals of the Three Kingdoms). The players aim to find the strong warrior card explore the historical place on the story. It can also build a team with friends, and battle the enemies. It can interact various people, and have experience via the game.<br><br>The app was first project after I moved to the subsidiary. I joined the project as an iOS developer and client-side leader. I developed some features. Not only that, I also managed the progress of project of client-side. In the project that I worked in, I told the local staff to how to write readable code, and to use CI(Jenikins) to make smooth progress the project."
