@@ -46,7 +46,7 @@ theme = "hugo-agency-theme"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "I'm iOS Software Developer"
+		title = "I am iOS Software Developer"
 		subtitle = "Yuki Matsushita"
 		buttonText = "Tell me more"
 
@@ -60,18 +60,18 @@ theme = "hugo-agency-theme"
 
 		[[params.services.row.list]]
 			icon = "fa-laptop"
-			title = "Objective-C"
-			description = "I have experienced iOS App development for a total of 3 years.  Regarding Objective-C, I have experienced for over 2 years through some projects of former company.  I'm also familiar with memory management since I have developed projects with Manual Reference Counting and using Profile for detecting memory leak.  I have experienced not only Only-Client development,  also Client-Server integration development."
+			title = "iOS Development"
+			description = "I have experienced iOS App development for 3 years+. The detail is that I have developed apps using Objective-C for 2 years+ and using Swift for 1 year+. As I have developed the apps since iOS6, I have deep knowledge of iOS Development. For instance, I have solved the memory leak problems several times and Client-Server integration. I could boost to development quickly and accurately to your company."
 
 		[[params.services.row.list]]
 			icon = "fa-rocket"
-			title = "Swift"
-			description = "I have experience not only Objective-C, also Swift. I have started to use it on my own projects for about 1 year. Through those projects, I got also familiar with some library such as Alamofire, Realm, ReactiveCocoa, Quick(Testing framework). Recently, some of my own projects have already migrated to Swift2."
+			title = "Library"
+			description = " I am also familiar with not only iOS SDK but also libraries of major third party such as AFNetworking, Alamofire, Realm, ReactiveCocoa, Quick(Testing framework), etc. It could install and integrate smoothly into your projects."
   #
 		[[params.services.row.list]]
 			icon = "fa-code"
 			title = "Server-Side"
-			description = "I'm especially familiar with Client-Side. Also, I have some Server-Side experience, PHP, Java, SQL, RDBMS, Jenkins, so on through previous projects. To improve my back-end skill, I continue to study through use of tutorial, reading tech books, so on."
+			description = "I am especially familiar with Client-Side. Also, I have some Server-Side experience, PHP, Java, SQL, RDBMS, Jenkins, so on through previous projects. To improve my back-end skill, I continue to study through use of tutorial, reading tech books, so on."
  
 	[[params.services.row]]
         [[params.services.row.list]]

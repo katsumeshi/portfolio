@@ -1,10 +1,12 @@
-box: debian
+box: ubuntu
 build:
     steps:
         - script:
             name: install git
             code: |
               apt-get update
+              apt-get -y upgrade
+              apt-get install -f
               apt-get -y install git
         - script:
             name: download theme
@@ -12,13 +14,31 @@ build:
               git clone https://github.com/katsumeshi/hugo-agency-theme themes/hugo-agency-theme 
               rm -rf themes/hugo-agency-theme/.git
         - arjen/hugo-build:
-            version: "0.14"
+            version: "0.15"
             theme: hugo-agency-theme
             flags: --buildDrafts=true
+        - script:
+            name: ls stuff
+            code: |
+              ls -haltr /pipeline/source/public
+
 deploy:
     steps:
-        - install-packages:
-            packages: git ssh-client
+        - script:
+            name: ls output
+            code: |
+              ls -haltr /pipeline/output
+        - script:
+            name: ls source
+            code: |
+              ls -haltr /pipeline/source
+        - script:
+            name: install git
+            code: |
+              apt-get update
+              apt-get -y upgrade
+              apt-get install -f
+              apt-get -y install git
         - lukevivier/gh-pages@0.2.1:
             token: $GIT_TOKEN
             domain: yukim.xyz
