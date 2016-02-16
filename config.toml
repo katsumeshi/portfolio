@@ -61,33 +61,33 @@ theme = "hugo-agency-theme"
 		[[params.services.row.list]]
 			icon = "fa-laptop"
 			title = "iOS Development"
-			description = "I have experienced iOS App development for 3 years+. The detail is that I have developed apps using Objective-C for 2 years+ and using Swift for 1 year+. As I have developed the apps since iOS6, I have deep knowledge of iOS Development. For instance, I have solved the memory leak problems several times and Client-Server integration. I could boost to development quickly and accurately to your company."
+			description = "I have experienced iOS App development for 3 years+. The detail is that I have developed apps using Objective-C for 2 years+ and using Swift for 1 year+. As I have developed the apps since iOS6, I have deep knowledge of iOS Development. For instance, I have solved the memory leak problems several times and Client-Server integration. I could boost to development quickly and accurately your projects."
 
 		[[params.services.row.list]]
 			icon = "fa-rocket"
-			title = "Library"
-			description = " I am also familiar with not only iOS SDK but also libraries of major third party such as AFNetworking, Alamofire, Realm, ReactiveCocoa, Quick(Testing framework), etc. It could install and integrate smoothly into your projects."
-  #
+			title = "Library experience"
+			description = "I am also familiar with not only iOS SDK but also libraries of major third party such as AFNetworking, Alamofire, Realm, ReactiveCocoa, FMDB, Quick(Testing framework), etc. It could install and integrate smoothly into your projects."
+
 		[[params.services.row.list]]
 			icon = "fa-code"
 			title = "Server-Side"
-			description = "I am especially familiar with Client-Side. Also, I have some Server-Side experience, PHP, Java, SQL, RDBMS, Jenkins, so on through previous projects. To improve my back-end skill, I continue to study through use of tutorial, reading tech books, so on."
+			description = "I am especially familiar with Client-Side. Also, I have some Server-Side experience such us LAMP, PHP, Java, SQL, RDBMS and Jenkins etc. To improve my back-end skill, I continue to study through use of tutorial, reading tech books, so on."
  
 	[[params.services.row]]
         [[params.services.row.list]]
 			icon = "fa-gamepad"
 			title = "Game Development"
-			description = "I have game development experience using game engine also. I have used Unity, Cocos2d-x(trial), Cocos2d (without x), SpriteKit to make a game for a few months to a half year. Other than that, I have also experience Actionscript3 through making casual browser game for 1 year and a half."
+			description = "I have game development experiences using game engine, which have been Unity, Cocos2d-x(trial), Cocos2d (without x), SpriteKit for a few months to a half year, respectively. Other than that, I have also experience Actionscript3 through making casual browser game for 1 year and a half."
  
          [[params.services.row.list]]
 			icon = "fa-github-alt"
 			title = "Tools and Team Work"
-			description = "I got familiar with tools through the former company projects and my own projects.  Regarding source code management, I usually use Git/Github. For instance, In my former company, development process is we fix or develop based on issue that is made in Github or Project Management Tool using fix or feature branch, then send pull request to code review. After code review done, we merge it to development branch.  Other than that, I used Jenkins in my former company.  Personally, I use Vim, Zsh, Ansile, Vagrant, Docker,  so on to improve my work productivity.My favorite development tools are Xcode, Vim, Zsh."
+			description = "I am familiar with tools.For source management, Git/Github, Bazzar and SVN. For Editor or IDE, Xcode, Vim, Android Studio, Eclipse, so on.For Project management, Backlog, Redmine, Trac, WBS.For installing infrastructure, Docker, Vagrant, Ansile, VBox, VMWare. For communication tool, Slack, Chatwork, IRC."
   
     	[[params.services.row.list]]
 			icon = "fa-fire"
-			title = "Passion"
-			description = "I love to programming. When I have spare time, I usually do learning or programming such as reading tech books, reading code, learning software architecture, beginning new programming language so on. IT field expansion is quickly, and developers should get a lot of new tech things.I think important of as a developer is attitude of learning various tech things every day."
+			title = "Attitude"
+			description = "I have experienced Agile Development also through the projects. In addition, I could deal with the project flexibly and quickly. I have confidence to handle spontaneously any problem that I analyze and prioritise. Furthermore, I can work on and be familiar with willingly and quickly and flexibly any tasks which is required even it is not my field."
 
 	# Portfolio section
 	[params.portfolio]
