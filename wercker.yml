@@ -38,8 +38,10 @@ deploy:
               apt-get update
               apt-get -y upgrade
               apt-get install -f
-              apt-get -y install git
-        - gh-pages:
+              apt-get -y install git    
+        - install-packages:
+            packages: git ssh-client
+        - lukevivier/gh-pages@0.2.1:
             token: $GIT_TOKEN
             domain: yukim.xyz
             basedir: public
