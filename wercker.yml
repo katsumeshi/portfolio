@@ -14,7 +14,7 @@ build:
               git clone https://github.com/katsumeshi/hugo-agency-theme themes/hugo-agency-theme 
               rm -rf themes/hugo-agency-theme/.git
         - arjen/hugo-build:
-            version: "0.15"
+            version: "0.16"
             theme: hugo-agency-theme
             flags: --buildDrafts=true
         - script:
