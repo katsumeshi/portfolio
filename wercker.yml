@@ -39,7 +39,7 @@ deploy:
               apt-get -y upgrade
               apt-get install -f
               apt-get -y install git
-        - lukevivier/gh-pages@0.2.1:
+        - gh-pages:
             token: $GIT_TOKEN
             domain: yukim.xyz
             basedir: public
