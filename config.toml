@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://yukim.xyz/"
+baseurl = "https://yukim.xyz/"
 languageCode = "en-us"
 title = "Yuki Matsushita's Portfolio"
 theme = "hugo-agency-theme"
