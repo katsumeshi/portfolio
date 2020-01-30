@@ -46,7 +46,7 @@ googleAnalytics = "UA-32627465-9"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "I am iOS Software Developer"
+		title = "Mobile Software Developer"
 		subtitle = "Yuki Matsushita"
 		buttonText = "Tell me more"
 
@@ -118,31 +118,38 @@ googleAnalytics = "UA-32627465-9"
 			img = "1.jpg"
 			date = "2004-2007"
 			title = "Kobe Institute College of Computing. The Entertainmant Software Course"
-			description = "I went to college for 3 years. <br> 1st year : learned knowledge of basic programming. <br> 2nd year : created a game as a project using VC++. <br> 3rd year : created bigger game as a graduation project using DirectX "
+			description = "I studied entertainment software department for 3 years. The curriculum　was mainly fundamental computer science and 2D/3D video-game development. 1st year : learned knowledge of fundamental programming. 2nd year : created a 2D video game for a project with teammate using VC++. 3rd year : created a 3D video game for a graduation project with teammate using DirectX "
 
 		[[params.about.events]]
 			img = "2.jpg"
 			date = "2007-2008"
 			title = "M Technobrain Inc."
-			description = "I participated in two projects during 1 year. One of the project that are developed by Java, I was charge of user registration function. the others project are I took part in developing of management system of a temporary employment agency using VB.Net."
+			description = "I participated in two projects for a year. The first project was developing a business application using Java. Second project was developing a management system for contractor agency using VB.Net."
 
 		[[params.about.events]]
 			img = "3.jpg"
 			date = "2008-2012"
 			title = "NEXON Co., Ltd"
-			description = "The company is game publisher.  I was responsible for client-side of game creation that were used Action Script 3.  Last one and half year, I worked for as an infra engineer(on-premiss). The tasks are  monitoring , installing and maintaining the servers of MMO at IDC."
+			description = "NEXON is online game publisher in Japan.  My role was client-side development of casual online game using Action Script 3. Last one and half year, I worked as an infra engineer, I was doing initial setup,  monitoring and maintaining the servers for MMO games at Internet data center."
 
 		[[params.about.events]]
 			img = "4.jpg"
 			date = "2012-2013"
 			title = "KLab Inc."
-			description = "The company is mobile game publisher. I was responsible for front-end(JavaScript) of operation of the browser game for a half a year. Then, I participated in startup of the iOS app game as a mobile software developer."
+			description = "KLab is mobile game publisher. I was developing a browser game as a front-end(JavaScript) developer for a half a year. Then, I participated in a iOS game app project as a iOS developer."
 
         [[params.about.events]]
 			img = "5.jpg"
 			date = "2013-2015"
 			title = "KLab Cyscorpions Inc."
-			description = "The company is located in the phillipines is overseas base subsidiary of KLab Inc. I transfered to the phillipines as an iOS Developer and client-side leader. I managed some projects as a client-side leader and made them improve their quality of skills, such as software designing, coding skills by conversation on Github or having some meetings.Aside from that, I participated in the game operation and development of CMS using PHP. In addition I took part in Unity, Cocos projects, also."
+			description = "KLab Cyscorpions in the phillipines is subsidiary of KLab Inc. I joined the company as an lead iOS Developer. I managed, developed and managed some apps, and also my responsibility was local co-worker's skills improve to make them more better programmer. For example, software designing, coding skills, so on. Aside from that, I also participated in back-end development and took part some mobile game projects using Unity, Cocos2D."
+
+
+        [[params.about.events]]
+			img = "6.jpg"
+			date = "2016-Present"
+			title = "Picniic Labs Inc."
+			description = "Picniic is developing the best family organizer app for multi platform iOS, Android and Web. I've joined Picniic from the very beginning and helped launching the apps. My responsibility is developing and maintaining the apps for all platform using Swift, Objective-C. Kotlin, Java, JavaScript and Typescript. also code reviewing and sharing tech knowledge from daily work"
 
 	# Footer section
 	[params.footer]
