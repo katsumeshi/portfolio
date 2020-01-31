@@ -6,30 +6,8 @@ theme = "hugo-agency-theme"
 googleAnalytics = "UA-32627465-9"
 
 [params]
-
-	# You can use Markdown syntax for urls [text](//url.to/source) or
-	# most longer texts.
-	#
-	# All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
-	# for more icons. The icons are represented by their corresponding
-	# CSS class.
-
-	# To provide some metadata for search engines feel free to add a few
-    # information about you and your website.
 	name = "Yuki Matsushita"
 	description = "Your description"
-
-	# Since this template is static, the contact form uses www.formspree.io as a
-	# proxy. The form makes a POST request to their servers to send the actual
-	# email. Visitors can send up to a 1000 emails each month for free.
-    #
-    # What you need to do for the setup?
-    #
-    # - set your email address under 'email' below
-    # - upload the generated site to your server
-    # - send a dummy email yourself to confirm your account
-    # - click the confirm link in the email from www.formspree.io
-    # - you're done. Happy mailing!
 	email = "katsumeshi@gmail.com"
 
 
@@ -38,7 +16,6 @@ googleAnalytics = "UA-32627465-9"
 		brand = "Yuki Matsushita"
 		portfolio = "Portfolio"
 		services = "Skill"
-		team = "Leaning"
 		about = "Career"
 
 
@@ -60,34 +37,39 @@ googleAnalytics = "UA-32627465-9"
 
 		[[params.services.row.list]]
 			icon = "fa-laptop"
-			title = "iOS Development"
-			description = "I have experienced iOS App development for 3 years+. The detail is that I have developed apps using Objective-C for 2 years+ and using Swift for 1 year+. As I have developed the apps since iOS6, I have deep knowledge of iOS Development. For instance, I have solved the memory leak problems several times and Client-Server integration. I could boost to development quickly and accurately your projects."
+			title = "Mobile Development"
+			description = "I have experienced 7 years iOS(Swift, Objective-C), 3 years Android(Kotlin, Java) and 2 years ReactNative(Typescript. JavaScript). I have strong iOS Development knowledge since started it from iOS6 and it is first mobile development , also Android and React Native development experience for a few years. I'm still developing apps with it every day. Mainly, I am paticipating in client-server projects, so familier with handling Rest API and Firebase/FireStore too which current project is using everyday."
 
 		[[params.services.row.list]]
 			icon = "fa-rocket"
-			title = "Library experience"
-			description = "I am also familiar with not only iOS SDK but also libraries of major third party such as AFNetworking, Alamofire, Realm, ReactiveCocoa, FMDB, Quick(Testing framework), etc. It could install and integrate smoothly into your projects."
+			title = "Agile Development"
+			description = "I also have Agile Development experience with  projects like release product every month depending on sprints, also joining scrum meeting every morning. I have confident to address spontaneously and quickly any problems. Furthermore, I can finish up tasks willingly and quickly which is required even it is not my field."
+
+		[[params.services.row.list]]
+			icon = "fa-fire"
+			title = "Motivation"
+			description = "I am a quicker learner. Even if I haven't experienced something yet which projects require to implement , I can learn quickly and get the job done soon. For example, previously, I've never developed React web before, I learned and developed it, then released it in 3 months. Also,  I'm keen to learn tech things in my daily basis like software design, algorithm, language, new tech things that I haven't touched, also developing on my own app,"
+
+		
+ 
+	[[params.services.row]]
 
 		[[params.services.row.list]]
 			icon = "fa-code"
-			title = "Server-Side"
-			description = "I am especially familiar with Client-Side. Also, I have some Server-Side experience such us LAMP, PHP, Java, SQL, RDBMS and Jenkins etc. To improve my back-end skill, I continue to study through use of tutorial, reading tech books, so on."
- 
-	[[params.services.row]]
-        [[params.services.row.list]]
-			icon = "fa-gamepad"
-			title = "Game Development"
-			description = "I have game development experiences using game engine, which have been Unity, Cocos2d-x(trial), Cocos2d (without x), SpriteKit for a few months to a half year, respectively. Other than that, I have also experience Actionscript3 through making casual browser game for 1 year and a half."
+			title = "Back-End"
+			description = "I am basically Client-Side expert, howeber I have also back-end development experience such as Node, Lamda Function, Firebase Fuction, SQL, RDBMS etc. To improve my back-end skill, I'm learning it from developing some apps, tutorial on web and reading tech books."
  
          [[params.services.row.list]]
 			icon = "fa-github-alt"
 			title = "Tools and Team Work"
-			description = "I am familiar with tools.For source management, Git/Github, Bazzar and SVN. For Editor or IDE, Xcode, Vim, Android Studio, Eclipse, so on.For Project management, Backlog, Redmine, Trac, WBS.For installing infrastructure, Docker, Vagrant, Ansile, VBox, VMWare. For communication tool, Slack, Chatwork, IRC."
+			description = "I am familiar with development tools. For source management, Git (Mainly), Bazzar and SVN. For Editor, Xcode, Android Studio, Vim, Eclipse, so on. For Project management, Jira, Backlog, Redmine, Trac and WBS. For installing infrastructure, Docker, Vagrant, Ansile, VBox, VMWare. For communication tool, Slack, Chatwork, IRC."
+
+		[[params.services.row.list]]
+			icon = "fa-gamepad"
+			title = "Game Development"
+			description = "I have game development experiences using game engine, which have been Unity, Cocos2d-x(trial), Cocos2d (without x), SpriteKit for a few months to a half year, respectively. Other than that, I have also experience Actionscript3 through making casual browser game for 1 year and a half."
   
-    	[[params.services.row.list]]
-			icon = "fa-fire"
-			title = "Attitude"
-			description = "I have experienced Agile Development also through the projects. In addition, I could deal with the project flexibly and quickly. I have confidence to handle spontaneously any problem that I analyze and prioritise. Furthermore, I can work on and be familiar with willingly and quickly and flexibly any tasks which is required even it is not my field."
+    	
 
 	# Portfolio section
 	[params.portfolio]
@@ -175,8 +157,8 @@ googleAnalytics = "UA-32627465-9"
 			icon = "fa-envelope-o"
 			link = "mailto:katsumeshi@gmail.com"
 
-	# Team section
-	[params.team]
-		title = "Learning"
-		subtitle = ""
-		description = "Recently, My iOS learning is FRP(functional reactive programming) using [ReactiveCocoa](//github.com/ReactiveCocoa/ReactiveCocoa) and TDD(Test driven development) using [Quick](//github.com/Quick/Quick). I try to implement a app using these library, see ([Github source code : PhotoInfo](//github.com/katsumeshi/PhotoInfo)) <br><br> On the other hand, not only learning for iOS or client-side, I am also interested in back-end development and developing App of Android. Though I have some knowledge about back-end, I especially focus on learning Ruby, Ruby on rails recently .<br><br>This portfolio site is also part of learning, I created the site using [hugo](//gohugo.io/) which is static web site engine based on golang and  using [Docker](//www.docker.com/) and [Vagrant](//www.vagrantup.com/) for building local environment development." 
+	# LEARNING section
+	# [params.team]
+	# 	title = "Learning"
+	# 	subtitle = ""
+	# 	description = "Recently, My iOS learning is FRP(functional reactive programming) using [ReactiveCocoa](//github.com/ReactiveCocoa/ReactiveCocoa) and TDD(Test driven development) using [Quick](//github.com/Quick/Quick). I try to implement a app using these library, see ([Github source code : PhotoInfo](//github.com/katsumeshi/PhotoInfo)) <br><br> On the other hand, not only learning for iOS or client-side, I am also interested in back-end development and developing App of Android. Though I have some knowledge about back-end, I especially focus on learning Ruby, Ruby on rails recently .<br><br>This portfolio site is also part of learning, I created the site using [hugo](//gohugo.io/) which is static web site engine based on golang and  using [Docker](//www.docker.com/) and [Vagrant](//www.vagrantup.com/) for building local environment development." 
