@@ -1,10 +1,10 @@
-modalID: 7
-title: Shin Sangokushi Buster
-subtitle: "Development language: Objective-C <br> Using technology : Client-Server Integration, Github(private) and Jenkins(Automated build and delivery)<br><br>My responsibility : Developing some features<br> Leading local staff to complete the development and improving their development skill"
+modalID: 8
+title: Katatema Quest
+subtitle: "Development language: Objective-C <br> Using technology : Client-Server Integration, Github(private) and Cocos<br><br>My responsibility : Developing global version and some features,<br> Leading local staff to complete the development"
 date: 2014-07-10
-img: sangokushi_detail.png
-preview:  sangokushi_title.png
-client: KLab Inc and KLab Cyscorpions Inc 
-clientLink: "http://gamebiz.jp/?p=83006"
-category: iPhone App
-description: "The game is RPG card game is based on 'Sangokushi' (Annals of the Three Kingdoms). The players aim to find the strong warrior card explore the historical place on the story. It can also build a team with friends, and battle the enemies. It can interact various people, and have experience via the game.<br><br>The app was first project after I moved to the subsidiary. I joined the project as an iOS developer and client-side leader. I developed some features. Not only that, I also managed the progress of project of client-side. In the project that I worked in, I told the local staff to how to write readable code, and to use CI(Jenikins) to make smooth progress the project."
+img: katatema_detail.png
+preview: katatema_title.png
+client: KLab Inc and KLab Cyscorpions Inc.
+clientLink: "http://www.klab.com/jp/press/130530.html"
+category: iPhone App(Cocos)
+description: "Cute core RPG.The player with his/her monsters adventures to beat the Devil. The monsters can also be grown through monsters composition and getting experience point. Ofcourse, The players can also beat the Boss in cooperation. <br><br>Though the app of japanese version have already been closed, Our project purpose was to migrate and release to global version and needed to add some unique function to get new users. The feature and purpose was achieved and also met the deadline. Unfortunately, the app of global version was not able to release because of internal affair reason. I joined the project as a client-side leader and helper. I got familier with cocos project. "

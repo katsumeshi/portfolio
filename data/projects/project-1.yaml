@@ -1,10 +1,10 @@
 modalID: 1
-title: Dictionary (Own Project)
-subtitle: "Development language : Swift <br> Using library : [Realm](//realm.io), [JAZZHANDS](//github.com/IFTTT/JazzHands), [FMDB](//github.com/ccgus/fmdb), [ALAMOFIRE](//github.com/Alamofire/Alamofire),<br> Flickr API and Voice Over for making pronounciation."
-date: from 2015-07 to 2015-08
-img: dict_detail.jpg
-preview: dict_title.jpg
-client: Own Project
+title: Picniic
+subtitle: "Development language : Swift, Objective-C, Kotlin, Java, JavaScript and TypeScript <br> BackEnd: Firebase/Firestore"
+date: from 2016 to Present
+img: picniic_details.png
+preview: picniic_logo.png
 clientLink: "#"
-category: iPhone App
-description: "The app is one of my own project.<br> This app is an English-Japanese dictionary,and  vice versa. When the word looks up, the image and pronunciation play at the same time. I made the app for Engish learners who are difficult to remember the words. The feature is the app makes effect their brain by the image and pronounciation related to words.<br><br> [Available on iTunes Store](https://itunes.apple.com/us/app/naoni-ci-ji!-ying-he-he-ying/id1019032801?ls=1&mt=8)<br><br>"
+category: Mobile & Web App
+description: "Picniic is the best family organizer app for multi platform iOS, Android and Web. I've joined Picniic from the very beginning and helped launching the apps. My responsibility is developing and maintaining the apps for all platform using Swift, Objective-C. Kotlin, Java, JavaScript and Typescript. also code reviewing and sharing tech knowledge from daily work"
+

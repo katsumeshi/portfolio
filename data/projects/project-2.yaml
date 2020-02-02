@@ -1,10 +1,9 @@
 modalID: 2
-title: Color vision test game (Own)
-subtitle: "Development language : Swift <br> Using library : SpritKit and GameCenter."
-date: from 2015-06 to 2015-07
-img: vision_detail.png
-preview: vision_titile.png
-client: Own Project
+title: Dictionary (Own Project)
+subtitle: "Development language : Swift <br> Using library : [Realm](//realm.io), [JAZZHANDS](//github.com/IFTTT/JazzHands), [FMDB](//github.com/ccgus/fmdb), [ALAMOFIRE](//github.com/Alamofire/Alamofire),<br> Flickr API and Voice Over for making pronounciation."
+date: from 2015-07 to 2015-08
+img: dict_detail.jpg
+preview: dict_title.jpg
 clientLink: "#"
 category: iPhone App
-description: "This app is my own project.<br> The feature is possible to measure how much your eyes recognize the color difference. The test result is shown as an animal eyes level. The test game rule is simple. Find the diffrence of color from the entire tiles with in 60 sec.<br><br>[Available on iTunes Store](https://itunes.apple.com/us/app/se-jue-se-ruo-se-mangtesutogemu/id1011532512?mt=8)"
+description: "The app is one of my own project.<br> This app is an English-Japanese dictionary,and  vice versa. When the word looks up, the image and pronunciation play at the same time. I made the app for Engish learners who are difficult to remember the words. The feature is the app makes effect their brain by the image and pronounciation related to words.<br><br> [Available on iTunes Store](https://itunes.apple.com/us/app/naoni-ci-ji!-ying-he-he-ying/id1019032801?ls=1&mt=8)<br><br>"
